@@ -1,0 +1,8 @@
+[submodule "inavanti-eurocenter"]
+	path = inavanti-eurocenter
+	url = git@git.vauxoo.com:vauxoo/inavanti-eurocenter.git
+	branch = 18.0
+[submodule "costarica"]
+	path = costarica
+	url = git@git.vauxoo.com:vauxoo/costarica.git
+	branch = 18.0
